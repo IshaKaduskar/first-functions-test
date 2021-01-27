@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(163, 163, 228);
+}
+
+
+button {
+    height: 300px;
+    width: 300px;
+    font-size: 100px;
+    color: blueviolet;
+    background-color: rgb(116, 181, 235);
+}
+
+
+h1{
+    font-size: 200px;
+}
